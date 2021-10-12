@@ -34,7 +34,7 @@ Tenho 24 anos, sou de Torres/RS e estudo Análise e Desenvolvimento de Sistemas 
   
 ##
   
-![picasion com_e936994f282afaaac7479d5853861d43](https://user-images.githubusercontent.com/80002777/136929626-64a63fea-d845-4109-8310-136630d72eac.gif)
+![Snake animation](https://github.com/giselegarcia/giselegarcia/blob/output/github-contribution-grid-snake.svg)![picasion com_e936994f282afaaac7479d5853861d43](https://user-images.githubusercontent.com/80002777/136929626-64a63fea-d845-4109-8310-136630d72eac.gif)
  
 </div> 
 
