@@ -13,10 +13,10 @@ Tenho 24 anos, sou de Torres/RS e estudo Análise e Desenvolvimento de Sistemas 
  
  ##
 
-<div align="center">
-  <a href="https://https://github.com/giselegarcia">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giselegarcia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselegarcia&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
+<a href="https://https://github.com/giselegarcia">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=giselegarcia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselegarcia&layout=compact&langs_count=7&theme=radical"/>
+
   
 ##
   
