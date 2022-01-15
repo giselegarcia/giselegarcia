@@ -32,15 +32,6 @@ Tenho 24 anos, sou de Torres/RS e estudo Análise e Desenvolvimento de Sistemas 
   
 <div> 
   
-  
-##
-
- ![Snake animation](https://github.com/giselegarcia/giselegarcia/blob/output/github-contribution-grid-snake.svg)
-
- 
-</div>
-
-<p align="center"> 
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
