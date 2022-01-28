@@ -1,8 +1,7 @@
-## Oii Pessoal eu sou a Gisele Garcia!! 👩‍🦰 
+## Oii me chamo Gisele Garcia!! 👩‍🦰 
 
 Tenho 24 anos, sou de Torres/RS e estudo Análise e Desenvolvimento de Sistemas na Ulbra campus Torres desde 03/2021, estou no segundo semestre. 
 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b2b5509f518dc0a6dcc44c07ab7cbe6b.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
 ##
 
   <div align="center">
@@ -14,7 +13,7 @@ Tenho 24 anos, sou de Torres/RS e estudo Análise e Desenvolvimento de Sistemas 
  ##
 
 <div align="center">
-<a href="https://https://github.com/giselegarcia">
+<a href="https://github.com/giselegarcia">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giselegarcia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselegarcia&layout=compact&langs_count=7&theme=radical"/>
  </div>
  
@@ -31,12 +30,6 @@ Tenho 24 anos, sou de Torres/RS e estudo Análise e Desenvolvimento de Sistemas 
 <div> 
   
 
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/giselegarcia/count.svg" />
- </p>
-
-</p>
 
 
    
