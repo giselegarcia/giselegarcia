@@ -8,7 +8,7 @@ Tenho 24 anos, sou de Torres/RS e estudo Análise e Desenvolvimento de Sistemas 
    <a href="https://www.instagram.com/garciaagisele/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:gisele97@rede.ulbra.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/gisele-da-luz-garcia-78688518b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://twitter.com/GiseleDaLuzGar1" target = "_blank"><img src= "https://img.shields.io/twitter/url?style=for-the-badge" target="_blank"></a>
+  <a href = "https://twitter.com/GiseleDaLuzGar1" target = "_blank"><img src= "https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FGiseleDaLuzGar1" target="_blank"></a>
    </div>
 
  ##
