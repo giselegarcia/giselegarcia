@@ -1,4 +1,4 @@
-## Oii me chamo Gisele Garcia!! 👩‍🦰 
+##Bem vindo a meu Github
 
 Tenho 24 anos, sou de Torres/RS e estudo Análise e Desenvolvimento de Sistemas na Ulbra campus Torres desde 03/2021.
 
