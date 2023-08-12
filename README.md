@@ -1,9 +1,5 @@
 ##Bem vindo a meu Github
 
-Tenho 24 anos, sou de Torres/RS e estudo Análise e Desenvolvimento de Sistemas na Ulbra campus Torres desde 03/2021.
-
-##
-
   <div align="center">
    <a href = "mailto:gisele97@rede.ulbra.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/gisele-da-luz-garcia-78688518b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
